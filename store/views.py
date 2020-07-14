@@ -6,6 +6,7 @@ import datetime
 from .util import cartCookie, cartData, guestOrder
 
 # Create your views here.
+#hello
 
 
 def store(request):
