@@ -10,8 +10,7 @@ Go Kart is an online shopping cart build with Django that helps online shoppers 
 - Paypal Integration method.
 - Preview items.
 
-![ezgif com-optimize](https://user-images.githubusercontent.com/22757695/94878924-6b45c380-0424-11eb-9d1d-f0f419f5a94f.gif)
-
+![Peek 2020-10-04 10-44](https://user-images.githubusercontent.com/22757695/95020349-3dcd6580-0630-11eb-86a9-beb12e2e1609.gif)
 
 
 **Tools Used:**
